@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Cyberverse";
-  src: url(Cyberverse.otf) format("otf");
+        font-family: 'Cyberverse';
+        src:  url('font/Cyberverse.otf') format('otf');
 }
 
 html {
@@ -14,5 +14,5 @@ html {
     top: 50%;
     position: absolute;
     color: rgb(153, 252, 24);
-    font-family: "Cyberverse";
+    font-family: 'Cyberverse';
 }
